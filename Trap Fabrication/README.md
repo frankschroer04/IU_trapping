@@ -6,3 +6,7 @@ Once when the entire CAD model is polished and we have successfully trapped ions
 <p align="center">
   <img src="./Trap Face.jpg" alt="Energy Level Diagram" width="600" height="600"/>
 </p>
+
+<p align="center">
+  <img src="./Trap Optics Table.jpg" alt="Energy Level Diagram" width="600" height="600"/>
+</p>
