@@ -1,1 +1,1 @@
-
+Trap fabrication has been my primary focus during my time at Indiana University. In colloboration with Ilyoung Jung, we have desgined and assembled an ion trap that can host a wide suite of ion geometries that extends the native ion-ion interactions in typical macroscopic Paul Trap's. I have specifically designed the electrode's and inner/outer workings of this ion trap using Solidworks. The electrostatics was simulated by Ilyoung using COMSOL. On a personal note, this is my proudest achievement in my career thus far. 
