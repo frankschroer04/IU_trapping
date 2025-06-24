@@ -1,4 +1,4 @@
-In this folder contains code that calculates various quantities in our lab that are useful for analyzing and conducting studies of quantum simulation using trapped ions. 
+This folder contains code that calculates various quantities in our lab that are useful for analyzing and conducting studies of quantum simulation using trapped ions. 
 
 
 QSIM.py 
