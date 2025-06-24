@@ -4,7 +4,7 @@ A good portion of this code was written during my time (current) in the Richerme
 
 P.S. I'm just OK at writing code. So if you ever notice that something can be written smoother, please let me know at frankgschroeriv@gmail.com.
 
-Here are a list of fun ideas I'd like to tackle in my free time with regards to ion trapping  (if any of these also interest you, let's collaborate!)...
+Here are a list of fun ideas I'd like to tackle in my free time with regards to ion trapping  (if any of these also interest you, let's collaborate!):
 1) Make a trap that can host two, 2D crystals. This would provide a native platform for quantum simulation of bi-layer materials. Start with some idealized trapping potentials and acquire equilibrium positions. From this, find the minimal terms in the axial potential required for this crystal arrangement. Let this influence the number of DC electrodes required for the CAD model. Once CAD model is complete, run it through COMSOL and then find a voltage set that gives the desired crystal arrangement. 
 2) Instead of using an oscillating quadrupole, what if you used an oscillating quadrupole and an oscillation octopole? How would micromotion be affected? Could you achieve higher secular frequencies?
 3) Run a simulation of sending entangled photons to two seperate ion traps and see if you can do something clever to result the ion's being entangled.
