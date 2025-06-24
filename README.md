@@ -12,7 +12,7 @@ Here are a list of fun ideas I'd like to tackle in my free time with regards to 
 5) What are vaious ways to increase the trap depths of a surface trap that doesn't require a grounding plane? Making the RF/DC electrodes offset from each other in the vertical direction? Make a surface trap in CAD and simulate the electrostatics using COMSOL. Find trap depths.
 6) Make a sophisticated surface trap that can produce reasonable secular frequencies. Something similar to the surface trap David Allcock designed during his time at Oxford would be good enough for my liking.
 7) Board games are fun. I wonder if there are specific board games that can inspire new 2D surface trap electrode arangments that would make swapping and shuttling more efficient?
-8) Can cooling be quicker if we operate outside of the Lamb-Dicke Regime? I feel like this is a bad idea but who cares.
+8) Can cooling be quicker if we operate outside of the Lamb-Dicke Regime? I feel like this shouldn't work but who knows.
 9) Scaling to thousands of qubits would require an electrode array on the size of meters. This seems like an imporprobable outcome. What if you could pack ions in 3D, or shuttle an ion over an ion? (This seems incredibly hard)
 10) Create a white paper that explores the point at which quantum computers are useful. 
 
